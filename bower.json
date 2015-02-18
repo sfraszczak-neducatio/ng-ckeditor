@@ -1,6 +1,6 @@
 {
     "name": "ng-ckeditor",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "main": ["libs/ckeditor/ckeditor.js", "ng-ckeditor.js"],
     "dependencies": {
         "angular": "~1.2.9"
